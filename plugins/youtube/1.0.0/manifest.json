@@ -1,0 +1,11 @@
+{
+  "pluginId": "youtube",
+  "name": "YouTube",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "author": "Ombryal",
+  "description": "Official YouTube Presence plugin.",
+  "packageUrl": "https://github.com/Ombryal/PresenceHub-Plugins/releases/download/youtube-v1.0.0/plugin.apk",
+  "checksumSha256": "",
+  "signatureUrl": "https://raw.githubusercontent.com/Ombryal/PresenceHub-Plugins/main/plugins/youtube/1.0.0/signature.sig"
+}
