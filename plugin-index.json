@@ -6,10 +6,12 @@
       "name": "YouTube",
       "version": "1.0.0",
       "apiVersion": 1,
-      "downloadUrl": "https://github.com/Ombryal/PresenceHub-Plugins/releases/download/youtube-v1.0.0/youtube-plugin.apk",
-      "checksumSha256": "",
-      "signature": "",
+      "author": "Ombryal",
       "description": "Official YouTube Presence plugin.",
+      "manifestUrl": "https://raw.githubusercontent.com/Ombryal/PresenceHub-Plugins/main/plugins/youtube/1.0.0/manifest.json",
+      "packageUrl": "https://github.com/Ombryal/PresenceHub-Plugins/releases/download/youtube-v1.0.0/plugin.apk",
+      "checksumUrl": "https://raw.githubusercontent.com/Ombryal/PresenceHub-Plugins/main/plugins/youtube/1.0.0/checksum.sha256",
+      "signatureUrl": "https://raw.githubusercontent.com/Ombryal/PresenceHub-Plugins/main/plugins/youtube/1.0.0/signature.sig",
       "verified": true
     }
   ]
