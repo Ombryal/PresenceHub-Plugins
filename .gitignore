@@ -1,1 +1,16 @@
+# Optional local files
+.env
+.env.*
 
+# Packages / artifacts
+*.apk
+*.aab
+*.jar
+
+# Checksums / signatures if generated locally
+*.sha256
+
+# IDE
+.idea/
+.DS_Store
+Thumbs.db
